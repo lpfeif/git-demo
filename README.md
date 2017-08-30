@@ -1,1 +1,3 @@
-git-demo
+#materials from intermediate git demo
+
+Horray!
